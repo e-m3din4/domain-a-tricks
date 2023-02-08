@@ -25,7 +25,7 @@ The Censys API credentials (CENSYS_UID and CENSYS_SECRET) must be set before run
 Censys, SecurityTrails and Zoomeye API credentials must be obtained and set before running the script.
 The following pip packages must be installed: censys, pysecuritytrails, zoomeye, photon 
 
-##W Tools 
+### Tools 
 
 The following tools are used in the script, located at ~/Domain-A-Tricks/tools, make sure every tool is installed and fully-functional before running this script:
 
